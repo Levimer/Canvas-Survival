@@ -1,4 +1,4 @@
 # Canvas-Survival
 Canvas Survival game
 
-Receives parameters from App.js
+A javascript canvas game that can be played [here](https://ilmerlev.com/)
